@@ -18,8 +18,6 @@ Giriş | Kayıt                                                                 
 ---- |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------| ---- |
 ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/1.jpeg) | ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/2.jpeg) | ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/3.jpeg) | ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/4.jpeg) | ![]
 
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-(https://www.youtube.com/watch?v=74e9_6F9Xro "Now in Android: 55")    // Video Link
+
 
 </br>
