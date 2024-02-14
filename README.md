@@ -14,7 +14,7 @@ To do List Application Build With Kotlin MVVM (Model - View - ViewModel) </br>Cl
 
 ## Screenshoots 📷
 
-Giriş | Kayıt                                                                             | Ekle                                                                              | Güncelle 
+Giriş | Kayıt                                                                   |Liste          | Ekle                                                                              | Güncelle 
 ---- |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------| ---- |
 ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/1.jpeg) | ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/2.jpeg) | ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/3.jpeg) | ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/4.jpeg) | ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/5.jpeg)
 
