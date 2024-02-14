@@ -18,5 +18,6 @@ Giriş | Kayıt                                                                 
 ---- |-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------| ---- |
 ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/1.jpeg) | ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/2.jpeg) | ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/3.jpeg) | ![](https://github.com/emrekirik/BasicTodoListApp/blob/main/Screenshots/4.jpeg) | ![]
 
+[![Watch the video]()](https://www.youtube.com/watch?v=74e9_6F9Xro)
 
 </br>
